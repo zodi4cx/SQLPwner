@@ -1,0 +1,6 @@
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\bin\Debug\SQLPwner.exe.config
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\bin\Debug\SQLPwner.exe
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\bin\Debug\SQLPwner.pdb
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\obj\Debug\SQLPwner.csprojAssemblyReference.cache
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\obj\Debug\SQLPwner.exe
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\obj\Debug\SQLPwner.pdb

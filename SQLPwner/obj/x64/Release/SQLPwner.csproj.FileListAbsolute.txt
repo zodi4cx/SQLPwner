@@ -1,0 +1,13 @@
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\bin\x64\Release\SQLPwner.exe.config
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\bin\x64\Release\SQLPwner.exe
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\bin\x64\Release\SQLPwner.pdb
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\obj\x64\Release\SQLPwner.csprojAssemblyReference.cache
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\obj\x64\Release\SQLPwner.exe
+C:\Users\Offsec.CORP1.000\source\repos\SQLPwner\SQLPwner\obj\x64\Release\SQLPwner.pdb
+C:\Users\administrator\Desktop\SQLPwner\SQLPwner\bin\x64\Release\SQLPwner.exe.config
+C:\Users\administrator\Desktop\SQLPwner\SQLPwner\bin\x64\Release\SQLPwner.exe
+C:\Users\administrator\Desktop\SQLPwner\SQLPwner\bin\x64\Release\SQLPwner.pdb
+C:\Users\administrator\Desktop\SQLPwner\SQLPwner\obj\x64\Release\SQLPwner.csproj.AssemblyReference.cache
+C:\Users\administrator\Desktop\SQLPwner\SQLPwner\obj\x64\Release\SQLPwner.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Desktop\SQLPwner\SQLPwner\obj\x64\Release\SQLPwner.exe
+C:\Users\administrator\Desktop\SQLPwner\SQLPwner\obj\x64\Release\SQLPwner.pdb
